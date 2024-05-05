@@ -29,3 +29,12 @@ body {
   height: 150px;
   object-fit: cover;
 }
+
+#randomBtn {
+  padding: 15px;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: 15px auto;
+  display: block;
+  color: white;
+  border: 1px solid white;
+}
